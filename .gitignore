@@ -1,6 +1,8 @@
 db/*
 docs/*
+!docs/place-files-here.txt
 models/*
+!models/place-models-here.bin
 .vscode
 venv/
 env/

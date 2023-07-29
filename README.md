@@ -118,19 +118,3 @@ Helpful Answer: One of the main benefits of Hierarchy 4.0 is that it allows us t
 > CASE STUDIES We prepared four case studies to show the true potential of Hierarchy 4.0. In each case we are going to review the actual method to approach the issue and the new method, using Hierarchy 4.0, to solve the problem at hand. The four case studies are 1)Restore a PSD 1 node without requiring a planned shutdown; 2)Evaluate the maintenance on a voting 2 out of 3 instruments; 3)Prepare the maintenance on 2 out of 3 voting where one instrument is already in fault; 4) Prepare a full Root Cause Analysis (RCA) of an unexpected shutdown.
 
 ```
-
-```
-
-```
-
-```
-
-```
-
-```
-
-```
-
-```
-
-```
