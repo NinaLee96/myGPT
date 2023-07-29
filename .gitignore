@@ -1,0 +1,7 @@
+db/*
+docs/*
+models/*
+.vscode
+venv/
+env/
+.env
